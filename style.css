@@ -1,0 +1,23 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: grey;
+    color: goldenrod;
+}
+
+.titulo{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.analise{
+    color: darkgray;
+}
